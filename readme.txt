@@ -37,7 +37,7 @@ Features:
 
 == Screenshots ==
 
-screenshot.png
+1. Plugin options page
 
 
 == Changelog ==
