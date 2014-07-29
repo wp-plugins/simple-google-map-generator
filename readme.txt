@@ -1,4 +1,4 @@
-=== WP-Parsi Statistics ===
+=== Simple Google Map Generator ===
 Contributors: Peyman Naeimi
 Donate link: http://piman.ir
 Tags: persian, unique, google map, map , shortcode, drag and drop
