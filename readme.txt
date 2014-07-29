@@ -35,6 +35,10 @@ Features:
 3. Go to 'Settings' and build your code
 
 
+== Screenshots ==
+
+screenshot.png
+
 
 == Changelog ==
 = 1.0 =
