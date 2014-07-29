@@ -1,0 +1,25 @@
+.first_col,.second_col {
+	float: left;
+}
+.first_col {
+	margin-left: 0;
+	margin-right: 5%;
+}
+ul.tabs li:last-child {
+	right: auto;
+	left: 0;
+}
+#success_msg {
+	text-align: right;
+	margin-left: 0px;
+	margin-right: 10px;
+	border-left: none;
+	border-right: 4px solid #53CF16;
+}
+
+#error_msg {
+	text-align: right;
+	margin: 10px 2px 10px 20px;
+	border-left: none;
+	border-right: 4px solid #FF0000;
+}
