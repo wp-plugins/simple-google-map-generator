@@ -1,7 +1,7 @@
 === Simple Google Map Generator ===
 Contributors: Peyman Naeimi
 Donate link: http://piman.ir
-Tags: english, persian, unique, google map, map, shortcode, drag and drop, rtl, google, shortcode, simple
+Tags: english, persian, unique, google map, map, shortcode, drag and drop, rtl, google, simple
 Requires at least: 3.0
 Tested up to: 3.9.1
 Stable tag: 1.0
