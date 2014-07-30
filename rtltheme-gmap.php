@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Simple Google Map Generator
-Plugin URI: http://www.piman.ir/google-maps-plugin
+Plugin URI: http://wordpress.org/plugins/simple-google-map-generator/
 Description: A plugin for build your own google maps, just with Drag and Drop
 Author: Peyman Naeimi
 Author URI: http://www.piman.ir/
