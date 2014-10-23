@@ -44,3 +44,5 @@ Features:
 == Changelog ==
 = 1.0 =
 * Start the project...
+= 1.0.1 =
+* Fixed language issue
