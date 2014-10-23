@@ -22,7 +22,7 @@ function rtl_theme_gmap_options_page() {
 
     <h2><?php _e( 'Google Maps', 'rtltheme-gmap' ); ?></h2>
 
-    <div id="error_msg"><?php _e( '<strong>Note:</strong> if your theme orginally support google maps, this plugin will influence it, and maybe make it broken. if it happpens, you should deactivate one of them.', 'rtltheme-gmap' ); ?>
+    <div id="error_msg"><?php _e( '<strong>Note:</strong> if your theme orginally support google maps, this plugin will influence it, and maybe make it broken. if it happens, you should deactivate one of them.', 'rtltheme-gmap' ); ?>
     </div>
     <br>
     

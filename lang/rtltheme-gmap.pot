@@ -23,7 +23,7 @@ msgstr ""
 #: lib/admin_options.php:25
 msgid ""
 "<strong>Note:</strong> if your theme orginally support google maps, this "
-"plugin will influence it, and maybe make it broken. if it happpens, you "
+"plugin will influence it, and maybe make it broken. if it happens, you "
 "should deactivate one of them."
 msgstr ""
 
