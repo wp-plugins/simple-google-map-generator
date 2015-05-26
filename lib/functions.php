@@ -6,8 +6,8 @@ if (!class_exists("AllGoogleMaps")) {
 
 			function rtlgmap($atts, $content = null) {
 			    extract(shortcode_atts(array(
-			        "Lat" => '35.65729649334313',
-			        "Lng" => '51.41601575000004',
+			        "lat" => '35',
+			        "lng" => '51',
 			        "marker" => 'http://',
 			        "animation" => '',
 			        "type" => 'roadmap',
@@ -38,12 +38,12 @@ if (!class_exists("AllGoogleMaps")) {
 				$(function() { 
 					$(\'#rtl_map_convas\').initMap({ 
 
-						center : [ '.$Lat.','.$Lng.' ] ,
+						center : [ '.$lat.','.$lng.' ] ,
 						type : \''.$type.'\', 
 						
 						markers : {
 							marker : {
-								position: [ '.$Lat.','.$Lng.' ], 
+								position: [ '.$lat.','.$lng.' ], 
 								animation: \''.$animation.'\',
 								'.$content_echo.'
 								options : {

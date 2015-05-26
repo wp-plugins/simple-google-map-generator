@@ -149,7 +149,7 @@ function rtl_theme_gmap_options_page() {
   initialize();
 
   function make_shortcode() {
-  	document.getElementById('map_shortcode').value = '[gmap Lat="' +document.getElementById('lat').value+'" Lng="'+ document.getElementById('lng').value +'" zoom="' +document.getElementById('map_zoom').value+'" marker="' +document.getElementById('upload_image').value+'" type="' +document.getElementById('map_type').value+'" width="' +document.getElementById('map_width').value+'" height="' +document.getElementById('map_height').value+'" animation="' +document.getElementById('map_animation').value+'"]' +document.getElementById('map_content').value+'[/gmap]';
+  	document.getElementById('map_shortcode').value = '[gmap lat="' +document.getElementById('lat').value+'" lng="'+ document.getElementById('lng').value +'" zoom="' +document.getElementById('map_zoom').value+'" marker="' +document.getElementById('upload_image').value+'" type="' +document.getElementById('map_type').value+'" width="' +document.getElementById('map_width').value+'" height="' +document.getElementById('map_height').value+'" animation="' +document.getElementById('map_animation').value+'"]' +document.getElementById('map_content').value+'[/gmap]';
 
   	document.getElementById('hidden').className = "show";
   	document.getElementById('success_msg').className = "show";
