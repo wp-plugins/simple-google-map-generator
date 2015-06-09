@@ -4,7 +4,7 @@ Donate link: http://piman.ir/
 Tags: english, persian, unique, google map, map, shortcode, drag and drop, rtl, google, simple
 Requires at least: 3.0
 Tested up to: 4.2.2
-Stable tag: 1.1.0
+Stable tag: 1.1.1
 License: GPLv2
 
 This plugin provide you a Google map shortcode to use everywhere of your website.
@@ -42,6 +42,8 @@ Features:
 
 
 == Changelog ==
+= 1.1.1 =
+* Fixed some issues
 = 1.1.0 =
 * Compatible with wordpress 4.2.2
 = 1.0.1 =

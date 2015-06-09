@@ -25,6 +25,10 @@ function rtl_theme_gmap_options_page() {
     <div id="error_msg"><?php _e( '<strong>Note:</strong> if your theme orginally support google maps, this plugin will influence it, and maybe make it broken. if it happens, you should deactivate one of them.', 'rtltheme-gmap' ); ?>
     </div>
     <br>
+
+    <a href="http://themeforest.net/search?utf8=%E2%9C%93&term=&view=list&sort=sales&date=&category=wordpress&price_min=&price_max=&sales=&rating_min=&ref=RtlTheme"><img src="<?php echo RT_PLUGIN_URL; ?>/img/theme_forest_728x90.jpg" alt="Wordperss Themes from 3$"></a>
+    
+    <br>
     
 	<input type="submit" id="make_shortcode" class="button button-primary" value="<?php _e( 'Build Google Map', 'rtltheme-gmap' ); ?>" onclick="make_shortcode();">
 	<span id="success_msg" class="hidden"><?php _e( 'Map successfully build!', 'rtltheme-gmap' ); ?></span>

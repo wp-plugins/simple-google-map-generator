@@ -7,7 +7,7 @@ Author: Peyman Naeimi
 Author URI: http://www.piman.ir/
 Text Domain: rtltheme-gmap
 Domain Path: /lang/
-Version: 1.1.0
+Version: 1.1.1
 */
 
 
